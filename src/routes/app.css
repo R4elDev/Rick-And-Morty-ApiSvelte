@@ -1,0 +1,11 @@
+html, body, #svelte {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: #0f111b;
+    overflow-x: hidden;
+    font-family: 'Arial', sans-serif;
+    color: #00ff91;
+  }
+  
