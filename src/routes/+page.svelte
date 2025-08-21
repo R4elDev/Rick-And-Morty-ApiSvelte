@@ -120,7 +120,7 @@
   </style>
   
   <div class="container">
-    <h1>Rick and Morty Characters</h1>
+    <h1>Consumindo API - Rick and Morty</h1>
   
     <input
       type="text"
